@@ -75,3 +75,7 @@ deploy:
 # Index File
 exclude_generators:
   - index
+
+# Plugins
+# plugins:
+#   - hexo-renderer-mathjax
