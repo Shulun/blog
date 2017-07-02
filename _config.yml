@@ -70,7 +70,7 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/Shulun/blog.git
-  branch: gh-pages
+  branch: master
 
 # Index File
 exclude_generators:
